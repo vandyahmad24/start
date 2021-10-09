@@ -1,7 +1,10 @@
 # Backend Dev Golang
 
-## How to Run
+## A. Tech
 
+Golang, Gin, Gorm, Validator, Clean code architecture
+
+## B.How to Run
 1. Sesuaikan env dengan konfigurasi env anda
 2. go mod tidy
 3. go run main.go
